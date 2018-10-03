@@ -1,0 +1,81 @@
+body {
+    margin: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+    width: 100%;
+    background-color: #f0f6ff!important;
+}
+
+.plate {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    background-color: #ffffff;
+    padding: 25px;
+    padding-left: 25px!important;
+    padding-right: 25px!important;
+    margin: 15% auto;
+    display: block;
+    box-shadow: 0 10px 40px 0 rgba(18,106,211,.07), 0 2px 9px 0 rgba(18,106,211,.06);
+    border-radius: 4px;
+    color:#617182 ;
+    text-align: center;
+   
+}
+h4{
+    font-family: 'Poppins',sans-serif!important;
+    font-size: 1.1rem!important;
+    
+    margin-bottom: 20px !important;
+}
+.form{
+    max-width: 390px!important;
+    
+}
+
+.form-check{
+    text-align: left;   
+}    
+.form-check-input{
+    background-color: #635ebe;
+}
+/* login/signup button */
+.btn-lg{
+    -webkit-border-radius: 400px;
+    -moz-border-radius: 400px;
+    border-radius: 400px!important;
+    -webkit-border-top: 400px;
+    -moz-border-top: 400px;
+    border-top: 400px;
+    -webkit-border-bottom: 400px;
+    -moz-border-bottom: 400px;
+    border-bottom: 400px;
+    /*box-shadow: 0 12px 16px 0 rgba(0,0,0,0.10), 0 17px 50px 0 rgba(0,0,0,0.10);*/
+}
+.btn-btn-primary{
+    background-color: rgb(4, 162, 224)!important;
+    font-size: 13px;
+    color: #eeecec;
+    font-family: inherit;
+    cursor: pointer;
+    height: 56px;
+}
+/*.btn:hover {
+    box-shadow: 0 12px 16px 0 rgb(172, 225, 241), 0 17px 50px 0 #f0f6ff;
+}*/
+.float-right, a{
+    color:rgb(4, 162, 224) !important;
+}
+.float-right:hover  {
+    text-decoration: none!important;
+}
+
+a:hover{
+    text-decoration: none!important;
+}
+p{
+    margin-top: 20px!important;
+}
+.btn{
+    background-color:rgb(4, 162, 224);
+    color: white;
+}

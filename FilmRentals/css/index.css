@@ -1,0 +1,100 @@
+body{
+    margin: 0 auto;
+    padding: 0px;
+}
+.navbar{
+    background-color: black!important;
+    height: 80px;
+    font-size: 17px;
+    font-family: 'poppins',sans-serif;
+    
+}
+.nav-link{
+    color: #ffdc73!important;
+}
+.navbar-toggler {
+    color: #ffdc73 !important;
+    border-color: #ffdc73!important;
+    background-color: rgba(245, 245, 245, 0.5) !important;
+}
+@media (min-width: 320px) and (max-width: 991.98px) {
+    .nav-link {
+        color: #ffd659!important;
+        font-size:17px;
+        font-weight: bold;
+    }
+    }
+#slidingpicture{
+    padding-top: 80px;
+}
+.jumbotron{
+    margin-top: 20px;
+    
+}
+#note{
+    font-family: 'Roboto Condensed'!important;
+    font-size: 20px!important;
+    text-align: center;
+}
+#row1{
+    padding-left: 15px;
+    padding-right: 15px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+}
+#row2{
+    padding-left: 15px;
+    padding-right: 15px;
+	padding-top: 30px;
+	padding-bottom: 5px;
+}
+#contacts{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-bottom: 40px;
+}
+#contacts a:hover{
+    text-decoration: none;
+}
+#contacts h4 {
+    color: rgb(4, 162, 224);
+    padding-bottom: 25px;
+    text-shadow: rgb(184, 203, 211) 2px 2px 4px;
+}
+.fa{
+    padding-right: 8px;
+    font-size: 20px!important;
+}
+footer{
+    margin-top: 20px;
+    background-color: #000000;
+    height: 80px;
+}
+#copyright{
+    padding-top: 30px;
+    text-align: center;
+    color:#ffffff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+/*.......CONTACT STYLE......*/
+.btn{
+    background-color:  rgb(4, 162, 224);
+    margin-top: 20px;
+}
+
+button{
+    font-size: bolder;
+}
+h3{
+    text-align: center;
+    font-family: 'Roboto Condensed';
+    color: rgb(207, 176, 135);
+    text-shadow: #d8bb65 2px 2px 4px;
+}
+.btn-group{
+    text-align: right!important;
+}
+
+
+
+
